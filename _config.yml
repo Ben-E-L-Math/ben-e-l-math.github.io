@@ -27,7 +27,7 @@ author:
   name             : #"Benjamin Earp-Lynch"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Canada"
+  location         : #"Canada"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : #"benjaminearplynch@cmail.carleton.ca" 
