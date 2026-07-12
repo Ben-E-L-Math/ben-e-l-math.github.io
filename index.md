@@ -1,3 +1,5 @@
+<div style="max-width: 800px; margin: 0 auto; padding: 40px;" markdown="1">
+
 # Benjamin Earp-Lynch
 I graduated from Carleton University in 2026 with a PhD in Pure Mathematics. 
 
@@ -42,4 +44,4 @@ DOI: 10.1007/s10474-020-01061-2.
 
 * [[Sagemath code for my brother's thesis and a submitted research article]](https://github.com/simon-e-l-math/On-the-Diophantine-Equation-1-k-...-x-k-p-alpha-y-n)
 
-
+</div>
