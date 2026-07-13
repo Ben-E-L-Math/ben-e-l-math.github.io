@@ -40,7 +40,7 @@ Benjamin Earp-Lynch, Simon Earp-Lynch and Omar Kihel.
 DOI: 10.1007/s10474-020-01061-2.
 
 ## Code
-### Github repositories for research projects on which I am a collaborator
+Github repositories for research projects on which I am a collaborator
 * [[Sagemath code for my thesis work and an upcoming research article.]](https://github.com/Ben-E-L-Math/Code-for-Solving-a-family-of-relative-Thue-equations)
 
 * [[Sagemath code for my brother's thesis and a submitted research article.]](https://github.com/simon-e-l-math/On-the-Diophantine-Equation-1-k-...-x-k-p-alpha-y-n)
