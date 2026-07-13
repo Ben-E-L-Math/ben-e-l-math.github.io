@@ -26,6 +26,7 @@ DOI: 10.22124/JART.2024.24741.1540.
 Benjamin Earp-Lynch, Simon Earp-Lynch, Omar Kihel and Puntani Pongsumpun.
 *Fibonacci Quart.* **62** (2024), no. 3, 241-257.
 DOI: 10.1080/00150517.2024.12459540.
+[[PDF]](https://arxiv.org/abs/2607.09105)
 
 * **On a simple quartic family of Thue equations over imaginary quadratic number fields.**
 Benjamin Earp-Lynch, Bernadette Faye, Eva Goedhart, Daniel Wiseniewski, and Ingrid Vukusic.
