@@ -7,7 +7,7 @@ I graduated from Carleton University in 2026 with a PhD in Pure Mathematics.
   
 ## Preprints
 * **Mordell Curves with Ordinates in Arithmetic Progression**
-Sakha A. Alkabouss, \textbf{Benjamin Earp-Lynch}, Simon Earp-Lynch, and Omar Kihel.
+Sakha A. Alkabouss, Benjamin Earp-Lynch, Simon Earp-Lynch, and Omar Kihel.
 arXiv, 2026.
 [[PDF]](https://arxiv.org/abs/2607.06998)
 
